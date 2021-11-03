@@ -1,2 +1,8 @@
 # hello-world
-Laudemer`s Repository
+
+
+Hello Humans!
+SLEEP EAT CODE
+is 
+my 
+motto
